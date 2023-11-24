@@ -48,11 +48,13 @@ ResumeGenius is a user-friendly web-based application that allows you to effortl
 
 ## 🤝 Contributions
 
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request[Contribution Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request [Contribution Guidelines](CONTRIBUTING.md).
+[![GitHub contributors](https://img.shields.io/github/contributors/wasimtikki120/ResumeGenius.svg)]
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE.md).
+Resume-Genius is licensed under the [MIT License](LICENSE.md).[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Feel free to customize and use it in your projects. 
 
 ## 🌟 About
 ResumeGenius was created with the goal of simplifying the resume building process, making it accessible to everyone. Whether you are a seasoned professional or just starting your career, ResumeGenius provides the tools to create a standout resume.
