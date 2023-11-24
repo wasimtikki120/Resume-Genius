@@ -1,4 +1,4 @@
-# 🌟 ResumeGenius
+# 🌟 Resume Genius
 
 ResumeGenius is a user-friendly web-based application that allows you to effortlessly create and customize your professional resume or curriculum vitae (CV). Stand out from the crowd and present your skills and experiences in a visually appealing way.
 
