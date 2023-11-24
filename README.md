@@ -9,6 +9,10 @@ ResumeGenius is a user-friendly web-based application that allows you to effortl
 - **Customization:** Tailor your resume to reflect your unique strengths and experiences.
 - **Download and Save:** Save your resume as a PDF or store it for future edits.
 
+## 👀 Experience Resume Genius
+
+ **Explore the Resume Genius Demo: [Click Here](https://resume-genius.netlify.app/)** 
+
 ## 📸 Screenshots
 
 ![Resume Genius Screenshot 1](images/ResumeGenius1.png)
