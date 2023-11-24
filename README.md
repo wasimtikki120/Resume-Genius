@@ -11,7 +11,7 @@ ResumeGenius is a user-friendly web-based application that allows you to effortl
 
 ## 👀 Experience Resume Genius
 
- **Explore the Resume Genius Demo: [Click Here](https://resume-genius.netlify.app/)** 
+- **Explore the Resume Genius Demo: [Click Here](https://resume-genius.netlify.app/)** 
 
 ## 📸 Screenshots
 
