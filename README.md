@@ -49,7 +49,6 @@ ResumeGenius is a user-friendly web-based application that allows you to effortl
 ## 🤝 Contributions
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request [Contribution Guidelines](CONTRIBUTING.md).
-[![GitHub contributors](https://img.shields.io/github/contributors/wasimtikki120/ResumeGenius.svg)]
 
 ## 📄 License
 
