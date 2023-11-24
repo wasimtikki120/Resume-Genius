@@ -1,6 +1,6 @@
 # 🌟 Resume Genius
 
-ResumeGenius is a user-friendly web-based application that allows you to effortlessly create and customize your professional resume or curriculum vitae (CV). Stand out from the crowd and present your skills and experiences in a visually appealing way.
+- ResumeGenius is a user-friendly web-based application that allows you to effortlessly create and customize your professional resume or curriculum vitae (CV). Stand out from the crowd and present your skills and experiences in a visually appealing way.
 
 ## 🚀 Features
 
@@ -52,22 +52,22 @@ ResumeGenius is a user-friendly web-based application that allows you to effortl
 
 ## 🤝 Contributions
 
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request [Contribution Guidelines](CONTRIBUTING.md).
+- Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request [Contribution Guidelines](CONTRIBUTING.md).
 
 ## 📄 License
 
-Resume-Genius is licensed under the [MIT License](LICENSE.md).[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- Resume-Genius is licensed under the [MIT License](LICENSE.md).[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Feel free to customize and use it in your projects. 
 
 ## 🌟 About
-ResumeGenius was created with the goal of simplifying the resume building process, making it accessible to everyone. Whether you are a seasoned professional or just starting your career, ResumeGenius provides the tools to create a standout resume.
+- ResumeGenius was created with the goal of simplifying the resume building process, making it accessible to everyone. Whether you are a seasoned professional or just starting your career, ResumeGenius provides the tools to create a standout resume.
 🚀 **Our Mission:** Empowering individuals to present their professional story with confidence.
 
 ## ✨ Author
 
-[Mohammad Wasim Tikki](https://github.com/wasimtikki120)
+- [Mohammad Wasim Tikki](https://github.com/wasimtikki120)
 
 ## ❤️ Support
 
-If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/Resume-Genius/issues).
+- If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/Resume-Genius/issues).
 
