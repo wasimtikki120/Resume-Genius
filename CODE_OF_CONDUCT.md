@@ -4,7 +4,7 @@
 
 The Resume Genius community is dedicated to providing a welcoming and inclusive environment for everyone, regardless of background or identity. This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in WeatherVista to help us create a safe and positive experience for everyone.
+We invite all those who participate in Resume Genius to help us create a safe and positive experience for everyone.
 
 ## Open and Inclusive Community
 
